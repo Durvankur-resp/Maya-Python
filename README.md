@@ -1,8 +1,7 @@
 # Maya-Python
-During the course, we'll create a few different projects to both showcase how Python is useful in a real world context,and to learn new concepts
+projects script in for more efficient Maya animation and storing Data 
 
-* Create and prop geometry with a simple rig ([LINK](introduction/))
-* Rename and organize a scene ([LINK](objectRenamer/))
-* Automatically create Gears for modelling with a configurable amount of teeth ([LINK](gearCreator/))
+* Rename and organize a scene ([LINK](Object renamer/))
+* Automatically create Gears for modelling with a configurable amount of teeth ([LINK](Gear Creator/))
 * An Animation Tweener with a simple UI ([LINK](tweener/))
-* A Library tool for Rigging Controls with a UI ([LINK](controllerLibrary/))
+* A Library tool for Rigging Controls with a UI ([LINK](Controller Library/))
